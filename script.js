@@ -1,4 +1,3 @@
 "use strict";
 
-console.log("script.js");
-console.log("v.04");
+console.log("v.06");
